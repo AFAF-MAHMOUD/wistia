@@ -1,0 +1,237 @@
+button{
+    min-width: 178px;
+    line-height: 58px;
+    display: inline-block;
+    border: 1px  ;
+    color: white;
+    font-size: 15px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+body{
+    margin: 0px;
+}
+h1,h2,h3,h4,ul,li,p,button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+
+}
+.videoSection{
+
+    align-items: center;
+    background-image: url("./images/bgsite.png");
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    padding: 50px;
+} 
+.articleSection{
+    width: 30%;
+}
+.articleSection h2{
+    font: size 40px; 
+    line-height: 50px;
+} 
+.articleSection p{
+    margin: 50px 0px;
+    font: size 50px; 
+}
+.watch{
+    background-color: #ee5178;
+}
+.watch a{
+    color: white;
+}
+.watch a:link :hover{
+    box-shadow: 5px 10px #ee5178;
+    transform: translate(10px,10px);
+    transition: all 0.1s;
+}
+.videoPart{
+    background-image: url("https://wistia.com/static/images/homepage/wistia-home_header-sparks-together@2x.gif");
+}
+/*******************************************************************************************************/
+
+.titrebotton h2{ 
+    margin-top: 80px;
+    text-align: center;
+}
+.titrebotton button {
+     margin-bottom: 50p;
+   display: inline-flex;
+   border:solid #3EA9F5 ;
+   background-color: white;
+    color: #3EA9F5;
+    display: inline-block;
+}
+.titrebotton  a :hover{
+   
+    box-shadow:10px 5px #3EA9F5  ;
+}
+.items{align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    display: flex;
+}
+.item{
+    margin-top: 50px;
+    width: 20%;
+}
+.bt{
+    text-align: center;
+}
+/************************************************************************************/
+
+
+.BlackSection{
+    align-items: center;
+    height: 500px;
+    justify-content: space-between;
+    background-color:#363945;
+     color: white;
+     padding: 20px;
+     margin:20px auto;
+     display: flex;
+}
+.bg1 img {
+    width: 90%;
+    height: auto;
+    margin: auto;
+    margin-bottom: 0;
+}
+
+/*
+.bg1container{
+    display: flex;
+    flex-direction: column;
+    align-content: flex-end;
+}*/
+.part{
+    height: 500px;
+    width: 32%;
+}
+.bg1 {
+    background-position: center,center;
+    background-size: auto cover;
+    background-image: url("./images/brandwagon.jpg");
+    display: flex;
+    flex-direction: column;
+    align-content: flex-end;}
+.bg2{
+    
+    background-size: auto cover;
+    background-position: center,center;
+    background-image: url("./images/one-ten-one-hundred.jpg");
+
+}
+   
+.ftr button{ border: solid black;
+    background-color: transparent;
+    color: white;
+   
+}
+/************************************************************************************/
+.images{
+    
+    display: flex;
+    justify-content:space-around ;
+}
+.imgs{
+    width: 30%;
+}
+.WhiteSection2  h3{
+    margin-top:80px ;
+    text-align: center;
+}
+.Articles h3{
+    text-align: center;
+
+}
+.imginfo{
+    justify-content: space-around;
+    display: flex;
+    
+}
+.Articles{
+   margin: 50px;
+}
+/********************************************************************************/
+.Bluesection{ 
+    background-image: url("./images/bgsite.png");
+    height:500px;
+
+}
+.Bluesection h1{ 
+    color: white;
+    padding: 50px;
+    text-align: center;
+
+}
+.boutons{
+    text-align: center;
+}
+.bt1{
+    background-color:#ee5178 ;
+    color: white;
+}
+.bt2{
+    background-color:white ;
+    color: black;
+}
+.footerprincipal{ 
+    color: white;
+    background-color :#363945;
+    display: flex;
+}
+.div2{
+    display: flex;
+}
+footer a{
+    color: white;
+}
+
+
+
+
+.mainheaderContainer{
+    justify-content: space-between;
+    display: flex;
+    width: 90%;
+    margin: auto;
+}
+.mainHeader{
+    
+    margin: auto;
+
+    color: white; 
+    background-image: url(./images/bgsite.png);
+   
+}
+nav ul { 
+
+    justify-content: space-between;
+    display: flex;
+    
+}
+nav li {
+    padding :0 15px;
+}
+
+
+
+
+
+ 
+    
+
+    
+    
+
+
+
